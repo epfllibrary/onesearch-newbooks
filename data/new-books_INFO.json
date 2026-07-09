@@ -744,6 +744,18 @@
         "support": "physical"
     },
     {
+        "id": "990053990160205516",
+        "title": "Quantum computer science an introduction",
+        "creator": "Mermin, N. David 1935-",
+        "date": "2007",
+        "publisher": "Cambridge University Press",
+        "isbn": "0521876583",
+        "thumbnail": "",
+        "dewey": "Computer programming, programs, data, security",
+        "added": "2026-02-17",
+        "support": "physical"
+    },
+    {
         "id": "99116854161805516",
         "title": "Noise a flaw in human judgment",
         "creator": "Kahneman, Daniel 1934-2024",
@@ -776,18 +788,6 @@
         "isbn": "9781250337740",
         "thumbnail": "",
         "dewey": "Computer science, knowledge & systems",
-        "added": "2026-02-17",
-        "support": "physical"
-    },
-    {
-        "id": "990053990160205516",
-        "title": "Quantum computer science an introduction",
-        "creator": "Mermin, N. David 1935-",
-        "date": "2007",
-        "publisher": "Cambridge University Press",
-        "isbn": "0521876583",
-        "thumbnail": "",
-        "dewey": "Computer programming, programs, data, security",
         "added": "2026-02-17",
         "support": "physical"
     },
@@ -876,18 +876,6 @@
         "support": "physical"
     },
     {
-        "id": "99117127040305516",
-        "title": "AI Systems Performance Engineering Optimizing Model Training and Inference Workloads with GPUs, CUDA, And PyTorch",
-        "creator": "Fregly, Chris",
-        "date": "2026",
-        "publisher": "O'Reilly",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-01-27",
-        "support": "physical"
-    },
-    {
         "id": "990062380580205516",
         "title": "Quantum computation and quantum information",
         "creator": "Nielsen, Michael A. 1974-",
@@ -896,6 +884,18 @@
         "isbn": "9781107002173",
         "thumbnail": "",
         "dewey": "Computer programming, programs, data, security",
+        "added": "2026-01-27",
+        "support": "physical"
+    },
+    {
+        "id": "99117127040305516",
+        "title": "AI Systems Performance Engineering Optimizing Model Training and Inference Workloads with GPUs, CUDA, And PyTorch",
+        "creator": "Fregly, Chris",
+        "date": "2026",
+        "publisher": "O'Reilly",
+        "isbn": "",
+        "thumbnail": "",
+        "dewey": "",
         "added": "2026-01-27",
         "support": "physical"
     }
