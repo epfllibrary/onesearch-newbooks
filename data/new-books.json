@@ -6,7 +6,7 @@
         "date": "2026.",
         "publisher": "Springer US",
         "isbn": "9781071652497",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-07-08",
         "support": "electronic"
@@ -18,7 +18,7 @@
         "date": "2026.",
         "publisher": "Springer US",
         "isbn": "9781071652022",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-07-08",
         "support": "electronic"
@@ -30,7 +30,7 @@
         "date": "2026.",
         "publisher": "Springer US",
         "isbn": "9781071653845",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-07-07",
         "support": "electronic"
@@ -54,7 +54,7 @@
         "date": "2026.",
         "publisher": "Cambridge University Press",
         "isbn": "9781009860796",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-07-07",
         "support": "electronic"
@@ -66,7 +66,7 @@
         "date": "2026.",
         "publisher": "Cambridge University Press",
         "isbn": "1009182536",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "",
         "added": "2026-07-07",
         "support": "electronic"
@@ -114,7 +114,7 @@
         "date": "[2026]",
         "publisher": "Birkha\u0308user",
         "isbn": "9783035630152",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-07-06",
         "support": "electronic"
@@ -126,7 +126,7 @@
         "date": "[2019]",
         "publisher": "Houghton Mifflin Harcourt",
         "isbn": "132888001X",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=alZkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Analysis",
         "added": "2026-07-06",
         "support": "electronic"
@@ -162,7 +162,7 @@
         "date": "2026.",
         "publisher": "EMS Press",
         "isbn": "9783985476107",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "",
         "added": "2026-07-04",
         "support": "electronic"
@@ -186,7 +186,7 @@
         "date": "2026.",
         "publisher": "European Mathematical Society - EMS - Publishing House GmbH",
         "isbn": "9783985476039",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-07-04",
         "support": "electronic"
@@ -246,7 +246,7 @@
         "date": "2026.",
         "publisher": "American Society of Civil Engineers",
         "isbn": "9780784486795",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "Hydraulic engineering",
         "added": "2026-07-04",
         "support": "electronic"
@@ -270,7 +270,7 @@
         "date": "2026.",
         "publisher": "American Society of Civil Engineers",
         "isbn": "9780784486931",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "Hydraulic engineering",
         "added": "2026-07-04",
         "support": "electronic"
@@ -282,7 +282,7 @@
         "date": "2026.",
         "publisher": "American Society of Civil Engineers",
         "isbn": "9780784486924",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "Civil engineering",
         "added": "2026-07-04",
         "support": "electronic"
@@ -540,6 +540,18 @@
         "support": "electronic"
     },
     {
+        "id": "990061069560205516",
+        "title": "Introduction to quantum optics from the semi-classical approach to quantized light",
+        "creator": "Grynberg, Gilbert 1948-2003",
+        "date": "[2010]",
+        "publisher": "Cambridge University Press",
+        "isbn": "0521551129",
+        "thumbnail": "http://books.google.com/books/content?id=Ee9vnQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Light and related radiation",
+        "added": "2026-06-29",
+        "support": "physical"
+    },
+    {
         "id": "99116920662105516",
         "title": "Nonlinear optics",
         "creator": "Boyd, Robert W. 1948- Verfasser",
@@ -570,9 +582,21 @@
         "date": "[2025]",
         "publisher": "Actar",
         "isbn": "9781638401841",
-        "thumbnail": "http://books.google.com/books/content?id=-csc0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "Too Many Requests",
         "dewey": "",
         "added": "2026-06-18",
+        "support": "physical"
+    },
+    {
+        "id": "990059421910205516",
+        "title": "Partial differential equations",
+        "creator": "Evans, Lawrence C. 1949- Verfasser",
+        "date": "2010",
+        "publisher": "American Mathematical Society",
+        "isbn": "9780821849743",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Analysis",
+        "added": "2026-06-15",
         "support": "physical"
     },
     {
@@ -600,15 +624,15 @@
         "support": "physical"
     },
     {
-        "id": "99117134800605516",
-        "title": "Retours \u00e0/de la Terre vues d'Europe et du Japon",
-        "creator": "",
-        "date": "[2025]",
-        "publisher": "Presses universitaires Rhin & Danube",
-        "isbn": "9782488305099",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Factors affecting social behavior",
-        "added": "2026-05-28",
+        "id": "990041507330205516",
+        "title": "Physics",
+        "creator": "Resnick, Robert 1923-2014",
+        "date": "[2002]",
+        "publisher": "J Wiley",
+        "isbn": "0471452718",
+        "thumbnail": "",
+        "dewey": "Physics",
+        "added": "2026-05-21",
         "support": "physical"
     },
     {
@@ -618,7 +642,7 @@
         "date": "[septembre 2025]",
         "publisher": "Dunod",
         "isbn": "2100840606",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "Computer programming, programs, data, security",
         "added": "2026-05-21",
         "support": "physical"
@@ -630,7 +654,7 @@
         "date": "2021",
         "publisher": "Cambridge University Press",
         "isbn": "9781108473224",
-        "thumbnail": "http://books.google.com/books/content?id=GdX7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "Too Many Requests",
         "dewey": "Physics",
         "added": "2026-05-11",
         "support": "physical"
@@ -642,7 +666,7 @@
         "date": "[2019]",
         "publisher": "Dunod",
         "isbn": "9782100807703",
-        "thumbnail": "",
+        "thumbnail": "Too Many Requests",
         "dewey": "General principles of mathematics",
         "added": "2026-05-11",
         "support": "physical"
@@ -654,9 +678,57 @@
         "date": "2024",
         "publisher": "Cambridge University Press",
         "isbn": "9781009397759",
-        "thumbnail": "http://books.google.com/books/content?id=I9jbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "thumbnail": "Too Many Requests",
         "dewey": "Physics",
         "added": "2026-05-04",
+        "support": "physical"
+    },
+    {
+        "id": "990017512290205516",
+        "title": "Jura bernois, Bienne et les rives du lac",
+        "creator": "Moser, Andres 1939-2021 Verfasser",
+        "date": "[1983]",
+        "publisher": "B\u00fcchler",
+        "isbn": "3717001957",
+        "thumbnail": "Too Many Requests",
+        "dewey": "The arts",
+        "added": "2026-04-30",
+        "support": "physical"
+    },
+    {
+        "id": "990042125390205516",
+        "title": "Hano\u00ef, le cycle des m\u00e9tamorphoses formes architecturales et urbaines",
+        "creator": "",
+        "date": "[2001]",
+        "publisher": "IPRAUS; Ed Recherches",
+        "isbn": "9782862220383",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Architecture",
+        "added": "2026-04-30",
+        "support": "physical"
+    },
+    {
+        "id": "990110073730205516",
+        "title": "Architectural stone elements research, design and fabrication",
+        "creator": "Fallacara, Giuseppe 1973- auteur",
+        "date": "[2016]",
+        "publisher": "Presses des Ponts",
+        "isbn": "2859785086",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Architecture",
+        "added": "2026-04-30",
+        "support": "physical"
+    },
+    {
+        "id": "990038653230205516",
+        "title": "Principles of magnetic resonance imaging a signal processing perspective",
+        "creator": "",
+        "date": "[2000]",
+        "publisher": "IEEE Press",
+        "isbn": "9780780347236",
+        "thumbnail": "http://books.google.com/books/content?id=LzVDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "",
+        "added": "2026-04-27",
         "support": "physical"
     },
     {
@@ -684,6 +756,18 @@
         "support": "physical"
     },
     {
+        "id": "990012677980205516",
+        "title": "Group theory and chemistry",
+        "creator": "Bishop, David Michael",
+        "date": "1993",
+        "publisher": "Dover",
+        "isbn": "9780486673554",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Physical chemistry",
+        "added": "2026-04-21",
+        "support": "physical"
+    },
+    {
         "id": "99117134201205516",
         "title": "The nonprofit crisis leadership through the culture wars",
         "creator": "Berman, Greg 1997-",
@@ -696,25 +780,13 @@
         "support": "physical"
     },
     {
-        "id": "99117136201305516",
-        "title": "The physics of superheroes goes Hollywood an all-new exploration of the real science of the multiverse, the quantum realm, and everything in between",
-        "creator": "Kakalios, James 1958-",
-        "date": "[2025]",
-        "publisher": "Tarcher an imprint of Penguin Random House",
-        "isbn": "0593719034",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Physics",
-        "added": "2026-04-16",
-        "support": "physical"
-    },
-    {
         "id": "99117132001305516",
         "title": "The Renaissance from Brunelleschi to Michelangelo the representation of architecture",
         "creator": "",
         "date": "[1997]",
         "publisher": "Rizzoli",
         "isbn": "9780847819973",
-        "thumbnail": "http://books.google.com/books/content?id=JNtUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "Too Many Requests",
         "dewey": "Architecture",
         "added": "2026-04-14",
         "support": "physical"
@@ -726,7 +798,7 @@
         "date": "[2019]",
         "publisher": "Verso",
         "isbn": "9781786636379",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=-W_nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Communities",
         "added": "2026-04-14",
         "support": "physical"
@@ -738,7 +810,7 @@
         "date": "2024",
         "publisher": "Verso",
         "isbn": "1804294942",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=-sPlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Economics of land and energy",
         "added": "2026-04-14",
         "support": "physical"
@@ -762,7 +834,7 @@
         "date": "[2022]",
         "publisher": "Monacelli a Phaidon Company",
         "isbn": "1580935982",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=m6JNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Architecture",
         "added": "2026-04-02",
         "support": "physical"
@@ -780,15 +852,51 @@
         "support": "physical"
     },
     {
+        "id": "990046147090205516",
+        "title": "Analyse recueil d'exercices et aide-m\u00e9moire",
+        "creator": "",
+        "date": "2003-2019",
+        "publisher": "Presses polytechniques et universitaires romandes",
+        "isbn": "2880745527",
+        "thumbnail": "Too Many Requests",
+        "dewey": "",
+        "added": "2026-04-01",
+        "support": "physical"
+    },
+    {
         "id": "99116920760505516",
         "title": "Encyclopedia of medical devices and instrumentation",
         "creator": "",
         "date": "[2006]",
         "publisher": "Wiley",
         "isbn": "9780471263586",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=h7RFAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Medicine and health",
         "added": "2026-03-31",
+        "support": "physical"
+    },
+    {
+        "id": "990066224280205516",
+        "title": "Interest rate modeling",
+        "creator": "Andersen, Leif B. G.",
+        "date": "[2010]",
+        "publisher": "Atlantic Financial Press",
+        "isbn": "9780984422104",
+        "thumbnail": "Too Many Requests",
+        "dewey": "",
+        "added": "2026-03-30",
+        "support": "physical"
+    },
+    {
+        "id": "990104027690205516",
+        "title": "Lina Bo Bardi 100 Brazil's alternative path to modernism",
+        "creator": "Bo Bardi, Lina",
+        "date": "[2014]",
+        "publisher": "Hatje Cantz Verlag",
+        "isbn": "9783775738521",
+        "thumbnail": "http://books.google.com/books/content?id=ATQQoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "dewey": "Architecture",
+        "added": "2026-03-26",
         "support": "physical"
     },
     {
@@ -798,7 +906,7 @@
         "date": "[2025]",
         "publisher": "CRC Press Taylor & Francis Group",
         "isbn": "9781032515434",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=Iv610AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
         "dewey": "Biology",
         "added": "2026-03-26",
         "support": "physical"
@@ -852,14 +960,26 @@
         "support": "physical"
     },
     {
-        "id": "99117134800905516",
-        "title": "Derni\u00e8re fronti\u00e8re une histoire environnementale du fond de la mer",
-        "creator": "",
-        "date": "[2025]",
-        "publisher": "Champ Vallon",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "History & geography",
+        "id": "990005435790205516",
+        "title": "Nonlinear dynamical control systems",
+        "creator": "Nijmeijer, Hendrik 1955-",
+        "date": "[1990]",
+        "publisher": "Springer",
+        "isbn": "354097234X",
+        "thumbnail": "Too Many Requests",
+        "dewey": "Mathematics",
+        "added": "2026-03-05",
+        "support": "physical"
+    },
+    {
+        "id": "990017546650205516",
+        "title": "Geometric control theory",
+        "creator": "Jurdjevic, Velimir math\u00e9maticien",
+        "date": "[1997]",
+        "publisher": "Cambridge University Press",
+        "isbn": "9780521495028",
+        "thumbnail": "Too Many Requests",
+        "dewey": "",
         "added": "2026-03-05",
         "support": "physical"
     },
@@ -870,32 +990,8 @@
         "date": "[2023]",
         "publisher": "Cambridge University Press",
         "isbn": "9781009179911",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "http://books.google.com/books/content?id=MEPGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         "dewey": "Economics",
-        "added": "2026-03-04",
-        "support": "physical"
-    },
-    {
-        "id": "99117136201205516",
-        "title": "Physics for cats",
-        "creator": "Gauld, Tom 1976-",
-        "date": "[2025]",
-        "publisher": "Drawn & Quarterly",
-        "isbn": "1770468056",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Drawing and drawings",
-        "added": "2026-03-04",
-        "support": "physical"
-    },
-    {
-        "id": "99117136201405516",
-        "title": "Battle of the big bang the new tales of our cosmic origins",
-        "creator": "Afshordi, Niayesh 1978-",
-        "date": "[2025]",
-        "publisher": "The University of Chicago Press",
-        "isbn": "9780226830476",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Specific celestial bodies and phenomena",
         "added": "2026-03-04",
         "support": "physical"
     },
@@ -906,7 +1002,7 @@
         "date": "[2024]",
         "publisher": "Skira",
         "isbn": "9788857251974",
-        "thumbnail": "http://books.google.com/books/content?id=9aL60AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "thumbnail": "Too Many Requests",
         "dewey": "Area planning (Civic art)",
         "added": "2026-02-26",
         "support": "physical"
@@ -936,27 +1032,15 @@
         "support": "physical"
     },
     {
-        "id": "99117136299005516",
-        "title": "Many-body theory exposed! propagator description of quantum mechanics in many-body systems",
-        "creator": "Dickhoff, Willem H.",
-        "date": "[2026]",
-        "publisher": "World Scientific",
-        "isbn": "9789819809240",
-        "thumbnail": "http://books.google.com/books/content?id=N4cH0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "",
-        "added": "2026-02-24",
-        "support": "physical"
-    },
-    {
-        "id": "99117136299105516",
-        "title": "Guide to multiple regression",
-        "creator": "Challal, Samia",
-        "date": "2026",
-        "publisher": "CRC Press Taylor & Francis Group",
-        "isbn": "1041018916",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Probabilities and applied mathematics",
-        "added": "2026-02-24",
+        "id": "990105272530205516",
+        "title": "Histoire d'un dessinateur comment on apprend \u00e0 dessiner",
+        "creator": "Viollet-le-Duc, Eug\u00e8ne-Emmanuel 1814-1879 Verfasser",
+        "date": "[2020]",
+        "publisher": "Infolio",
+        "isbn": "9782884747240",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2026-02-20",
         "support": "physical"
     },
     {
@@ -972,111 +1056,27 @@
         "support": "physical"
     },
     {
-        "id": "99117135301405516",
-        "title": "Fa\u00e7ons d'habiter au Japon maisons, villes et seuils",
-        "creator": "Bonnin, Philippe Verfasser",
-        "date": "[2017]",
-        "publisher": "CNRS Editions",
-        "isbn": "9782271089120",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Sociology and anthropology",
-        "added": "2026-02-20",
-        "support": "physical"
-    },
-    {
-        "id": "99117134800405516",
-        "title": "Humanite\u0301 et nature: les liens de l'indivisible repenser nos relations avec la plane\u0300te",
-        "creator": "Merlin, Ge\u0301rard auteur en biologie). 1956-....;",
-        "date": "[2025]",
-        "publisher": "Hermann",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-02-19",
-        "support": "physical"
-    },
-    {
-        "id": "99117136201105516",
-        "title": "Handbook of recycling state-of-the-art for practitioners, analysts, and scientists",
-        "creator": "Meskers, Christina",
-        "date": "[2024]",
-        "publisher": "Elsevier",
-        "isbn": "9780323855143",
-        "thumbnail": "http://books.google.com/books/content?id=6pDcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "dewey": "Sanitary engineering",
-        "added": "2026-02-19",
-        "support": "physical"
-    },
-    {
         "id": "99117134301005516",
         "title": "Logique math\u00e9matique Tome 1 - Calcul propositionnel, alg\u00e8bres de Boole, calcul des pr\u00e9dicats. Calcul propositionnel, alg\u00e8bre de Boole, calcul des pr\u00e9dicats",
         "creator": "Cori, Ren\u00e9 1949-",
         "date": "[2021]",
         "publisher": "Dunod",
         "isbn": "9782100825141",
-        "thumbnail": "Too Many Requests",
+        "thumbnail": "",
         "dewey": "",
         "added": "2026-02-18",
         "support": "physical"
     },
     {
-        "id": "99117136298905516",
-        "title": "Rainbow and Properly Colored Subgraphs",
-        "creator": "Hu, Jie",
-        "date": "[2026]",
-        "publisher": "WORLD SCIENTIFIC PUB",
-        "isbn": "9789819818815",
+        "id": "990053990160205516",
+        "title": "Quantum computer science an introduction",
+        "creator": "Mermin, N. David 1935-",
+        "date": "2007",
+        "publisher": "Cambridge University Press",
+        "isbn": "0521876583",
         "thumbnail": "Too Many Requests",
-        "dewey": "",
-        "added": "2026-02-18",
-        "support": "physical"
-    },
-    {
-        "id": "99116854161805516",
-        "title": "Noise a flaw in human judgment",
-        "creator": "Kahneman, Daniel 1934-2024",
-        "date": "2022",
-        "publisher": "Littlle Brown Spark",
-        "isbn": "9780316451390",
-        "thumbnail": "Too Many Requests",
-        "dewey": "",
+        "dewey": "Computer programming, programs, data, security",
         "added": "2026-02-17",
-        "support": "physical"
-    },
-    {
-        "id": "99117135601405516",
-        "title": "Ele\u0301ments de physique nucle\u0301aire",
-        "creator": "Diop, Cheikh M'Backe\u0301 physicien 19..-....",
-        "date": "[2024]",
-        "publisher": "INSTN; EDP Sciences",
-        "isbn": "2759831507",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Modern physics",
-        "added": "2026-02-17",
-        "support": "physical"
-    },
-    {
-        "id": "99117132201205516",
-        "title": "Warhead how the brain shapes war and war shapes the brain",
-        "creator": "Wright, Nicholas 1978-",
-        "date": "2025",
-        "publisher": "St Martin's Press",
-        "isbn": "1250286875",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Military science",
-        "added": "2026-02-12",
-        "support": "physical"
-    },
-    {
-        "id": "99117132201405516",
-        "title": "The whispers of rock the stories that stone tells about our world and our lives",
-        "creator": "Khatwa, Anjana",
-        "date": "2025",
-        "publisher": "Basic Books",
-        "isbn": "1541604644",
-        "thumbnail": "Too Many Requests",
-        "dewey": "Petrology",
-        "added": "2026-02-12",
         "support": "physical"
     }
 ]
