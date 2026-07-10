@@ -1,5 +1,101 @@
 [
     {
+        "id": "99117168605305516",
+        "title": "The AI mirror : how to reclaim our humanity in an age of machine thinking /",
+        "creator": "Vallor, Shannon, (author)",
+        "date": "[2024]",
+        "publisher": "Oxford University Press",
+        "isbn": "9780197759097",
+        "thumbnail": "",
+        "dewey": "Social processes",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168605405516",
+        "title": "SI Enhanced Ed Mechanics of Materials.",
+        "creator": "Goodno/Gere",
+        "date": "2020",
+        "publisher": "Cengage Learning",
+        "isbn": "0357377923",
+        "thumbnail": "",
+        "dewey": "Engineering and allied operations",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168605505516",
+        "title": "Lea's chemistry of cement and concrete /",
+        "creator": "",
+        "date": "[2019]",
+        "publisher": "Butterworth-Heinemann",
+        "isbn": "0081007957",
+        "thumbnail": "",
+        "dewey": "Ceramic & allied technologies",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168605605516",
+        "title": "Progress in Medicinal Chemistry.",
+        "creator": "Bentley, Jonathan.",
+        "date": "2025.",
+        "publisher": "Elsevier",
+        "isbn": "044343039X",
+        "thumbnail": "",
+        "dewey": "Pharmacology and therapeutics",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168605805516",
+        "title": "Laser Plasma Accelerator for Ions.",
+        "creator": "Yan, Xueqing.",
+        "date": "2026.",
+        "publisher": "World Scientific Publishing Co Pte Ltd",
+        "isbn": "9789819823734",
+        "thumbnail": "",
+        "dewey": "Modern physics",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168605905516",
+        "title": "Progress in Medicinal Chemistry /",
+        "creator": "",
+        "date": "[2023]",
+        "publisher": "Academic Press",
+        "isbn": "0443137048",
+        "thumbnail": "",
+        "dewey": "Pharmacology and therapeutics",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168606005516",
+        "title": "Progress in medicinal chemistry.",
+        "creator": "",
+        "date": "[2021]",
+        "publisher": "Elsevier",
+        "isbn": "0323858929",
+        "thumbnail": "",
+        "dewey": "Pharmacology and therapeutics",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
+        "id": "99117168606105516",
+        "title": "Progress in Medicinal Chemistry /",
+        "creator": "",
+        "date": "2020.",
+        "publisher": "Elsevier",
+        "isbn": "0128211733",
+        "thumbnail": "",
+        "dewey": "Pharmacology and therapeutics",
+        "added": "2026-07-09",
+        "support": "electronic"
+    },
+    {
         "id": "99117168901305516",
         "title": "Biomolecular Display Technologies.",
         "creator": "",
@@ -444,102 +540,6 @@
         "support": "electronic"
     },
     {
-        "id": "99117168100205516",
-        "title": "Proceedings of the 23rd ACM International Conference on Computing Frontiers /",
-        "creator": "CF '26: Proceedings of the 23rd ACM International Conference on Computing Frontiers Catania, Italy 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100305516",
-        "title": "Proceedings of the 7th ACM/IEEE International Conference on Automation of Software Test /",
-        "creator": "AST '26: 7th ACM/IEEE International Conference on Automation of Software Test Rio de Janeiro Brazil 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100405516",
-        "title": "Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing",
-        "creator": "SAC '26: 41st ACM/SIGAPP Symposium on Applied Computing Grand Hotel Palace Thessaloniki Greece 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100505516",
-        "title": "Proceedings of the Platform for Advanced Scientific Computing Conference",
-        "creator": "PASC '26: Platform for Advanced Scientific Computing Conference Bern, Switzerland 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100605516",
-        "title": "Proceedings of the 2026 Designing Interactive Systems Conference /",
-        "creator": "DIS '26: Designing Interactive Systems Conference Singapore, Singapore 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100705516",
-        "title": "Proceedings of the 25th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences",
-        "creator": "GPCE '26: 25th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences Brussels, Belgium 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100805516",
-        "title": "Proceedings of the Great Lakes Symposium on VLSI 2026 /",
-        "creator": "GLSVLSI '26: Great Lakes Symposium on VLSI 2026 Canandaigua, NY, USA 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
-        "id": "99117168100905516",
-        "title": "Proceedings of the 5th Annual Symposium on Human-Computer Interaction for Work /",
-        "creator": "CHIWORK '26: Proceedings of the 5th Annual Symposium on Human-Computer Interaction for Work Linz, Austria 2026",
-        "date": "2026",
-        "publisher": "Association for Computing Machinery",
-        "isbn": "",
-        "thumbnail": "",
-        "dewey": "",
-        "added": "2026-07-04",
-        "support": "electronic"
-    },
-    {
         "id": "99117094340405516",
         "title": "4\u00b0C entre toi et moi biennale d'architecture et de paysage d'I\u0302le-De-France",
         "creator": "Frini, Sana",
@@ -600,6 +600,18 @@
         "support": "physical"
     },
     {
+        "id": "99117150800905516",
+        "title": "Future homes domestic architecture in a changing world",
+        "creator": "Stathaki, Ellie",
+        "date": "[2026]",
+        "publisher": "RIBA Publishing",
+        "isbn": "9781915722645",
+        "thumbnail": "",
+        "dewey": "",
+        "added": "2026-05-21",
+        "support": "physical"
+    },
+    {
         "id": "99117141496605516",
         "title": "Rewriting Alberti",
         "creator": "Eisenman, Peter 1932-",
@@ -648,6 +660,42 @@
         "support": "physical"
     },
     {
+        "id": "99117150201305516",
+        "title": "The iconic Nordic house modern masterworks since 1900",
+        "creator": "Bradbury, Dominic 1968-....",
+        "date": "[2026]",
+        "publisher": "Thames and Hudson",
+        "isbn": "0500026238",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2026-05-12",
+        "support": "physical"
+    },
+    {
+        "id": "99117150201405516",
+        "title": "The joinery compendium learning from traditional woodworking : with English, German and Japanese terminology",
+        "creator": "",
+        "date": "[2024]",
+        "publisher": "Ruby Press",
+        "isbn": "3944074521",
+        "thumbnail": "",
+        "dewey": "Manufacturing",
+        "added": "2026-05-12",
+        "support": "physical"
+    },
+    {
+        "id": "99117150801005516",
+        "title": "Atelier Scheidegger Keller - workbook",
+        "creator": "Atelier Scheidegger Keller",
+        "date": "[2023]",
+        "publisher": "Quart Verlag",
+        "isbn": "3037612797",
+        "thumbnail": "",
+        "dewey": "Architecture",
+        "added": "2026-05-12",
+        "support": "physical"
+    },
+    {
         "id": "99117145301005516",
         "title": "California mission landscapes race, memory, and the politics of heritage",
         "creator": "Kryder-Reid, Elizabeth 1962-",
@@ -672,38 +720,14 @@
         "support": "physical"
     },
     {
-        "id": "990017512290205516",
-        "title": "Jura bernois, Bienne et les rives du lac",
-        "creator": "Moser, Andres 1939-2021 Verfasser",
-        "date": "[1983]",
-        "publisher": "B\u00fcchler",
-        "isbn": "3717001957",
-        "thumbnail": "",
-        "dewey": "The arts",
-        "added": "2026-04-30",
-        "support": "physical"
-    },
-    {
-        "id": "990042125390205516",
-        "title": "Hano\u00ef, le cycle des m\u00e9tamorphoses formes architecturales et urbaines",
+        "id": "99117150800805516",
+        "title": "Pise\u0301 - hybrid constructions tradition and potential",
         "creator": "",
-        "date": "[2001]",
-        "publisher": "IPRAUS; Ed Recherches",
-        "isbn": "9782862220383",
+        "date": "[2026]",
+        "publisher": "Triest Verlag",
+        "isbn": "3038630969",
         "thumbnail": "",
-        "dewey": "Architecture",
-        "added": "2026-04-30",
-        "support": "physical"
-    },
-    {
-        "id": "990110073730205516",
-        "title": "Architectural stone elements research, design and fabrication",
-        "creator": "Fallacara, Giuseppe 1973- auteur",
-        "date": "[2016]",
-        "publisher": "Presses des Ponts",
-        "isbn": "2859785086",
-        "thumbnail": "",
-        "dewey": "Architecture",
+        "dewey": "Specific materials & purposes",
         "added": "2026-04-30",
         "support": "physical"
     },
@@ -936,6 +960,18 @@
         "support": "physical"
     },
     {
+        "id": "99117141498705516",
+        "title": "Autonomous urbanism towards a new Transitopia",
+        "creator": "Shieh, Evan",
+        "date": "[2024]",
+        "publisher": "Applied Research and Design Publishing",
+        "isbn": "1957183632",
+        "thumbnail": "",
+        "dewey": "Transportation",
+        "added": "2026-04-14",
+        "support": "physical"
+    },
+    {
         "id": "99117142799805516",
         "title": "The homegrown city reclaiming the metropolis for its users",
         "creator": "Echanove, Matias 19..-....",
@@ -1040,42 +1076,6 @@
         "isbn": "3037787082",
         "thumbnail": "",
         "dewey": "Photography, computer art, cinematography",
-        "added": "2026-04-02",
-        "support": "physical"
-    },
-    {
-        "id": "99117141496905516",
-        "title": "Build like it's the end of the world a practical guide to decarbonize architecture, engineering, and construction",
-        "creator": "Ahuja, Sandeep",
-        "date": "[2024]",
-        "publisher": "Wiley",
-        "isbn": "1394179170",
-        "thumbnail": "",
-        "dewey": "Construction of buildings",
-        "added": "2026-04-02",
-        "support": "physical"
-    },
-    {
-        "id": "99117141497505516",
-        "title": "Re\u0301novation globale et performante d'aujourd'hui l'approche ze\u0301ro e\u0301nergie d'Energiesprong",
-        "creator": "Gaillard, Cl\u00e9ment designer et sp\u00e9cialiste d'architecture 1994-....",
-        "date": "[2025]",
-        "publisher": "Museo Editions",
-        "isbn": "9782373751383",
-        "thumbnail": "",
-        "dewey": "Construction of buildings",
-        "added": "2026-04-02",
-        "support": "physical"
-    },
-    {
-        "id": "99117141497805516",
-        "title": "Fa\u00e7ades v\u00e9g\u00e9talis\u00e9es conception, mise en oeuvre, entretien et maintenance",
-        "creator": "Lassalle, Fran\u00e7ois 1952-....",
-        "date": "[2025]",
-        "publisher": "CSTB \u00e9ditions",
-        "isbn": "9782868917744",
-        "thumbnail": "",
-        "dewey": "Construction of buildings",
         "added": "2026-04-02",
         "support": "physical"
     }
